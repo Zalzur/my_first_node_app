@@ -1,0 +1,26 @@
+{
+  "name": "springtab_test",
+  "version": "1.0.0",
+  "description": "My first Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zalzur/my_first_node_app.git"
+  },
+  "keywords": [
+    "Node.js",
+    "springtab"
+  ],
+  "author": "Tamás Oláh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zalzur/my_first_node_app/issues"
+  },
+  "homepage": "https://github.com/Zalzur/my_first_node_app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
